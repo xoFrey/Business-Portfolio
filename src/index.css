@@ -22,15 +22,22 @@
 }
 
 body {
-  /* width: var(--max-content-width); */
+  width: var(--max-content-width);
   margin: auto;
   background: var(--color-bg);
   color: var(--color-fg);
   font-family: var(--font-sans);
 }
 
-.divider {
+.divider-nav {
   background-color: var(--color-border);
   height: 1.3px;
   margin-top: 20px;
+}
+
+.divider {
+  background-color: var(--color-border);
+  height: 1.3px;
+  margin: 20px auto;
+  width: 80vw;
 }
