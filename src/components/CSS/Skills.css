@@ -1,6 +1,5 @@
 .skills {
   display: flex;
-
   align-items: self-start;
   padding: var(--section-gutter);
   padding-inline: 10vw;
