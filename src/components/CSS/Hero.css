@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   align-items: end;
-  gap: 100px;
   padding: var(--section-gutter);
   padding-inline: 10vw;
 }

@@ -1,0 +1,32 @@
+.skills {
+  display: flex;
+
+  align-items: self-start;
+  padding: var(--section-gutter);
+  padding-inline: 10vw;
+  position: relative;
+}
+
+.skills-content {
+  display: flex;
+  align-items: start;
+  gap: 130px;
+  padding-left: 200px;
+}
+
+.skill-table p:first-child {
+  color: var(--color-accent);
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 700;
+  font-family: var(--font-body);
+}
+
+.skill-table p {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.9;
+  font-family: var(--font-body);
+  color: var(--color-primary);
+}
