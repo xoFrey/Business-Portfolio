@@ -13,7 +13,6 @@ const ProjectItem = ({
   return (
     <>
       <section className='project-item'>
-        {/* <p className='paragraph'>Projects</p> */}
         <div className='project-hero'>
           <div className='project-img'>
             <p>

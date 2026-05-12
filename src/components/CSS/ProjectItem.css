@@ -1,5 +1,6 @@
 .projects {
   position: relative;
+  margin-left: -15px;
   padding-top: var(--section-gutter);
 }
 
@@ -15,7 +16,7 @@
   display: flex;
   justify-content: center;
   align-items: end;
-  margin-left: 200px;
+  margin-left: 215px;
   gap: 50px;
   border-bottom: 1px solid var(--color-border);
 }
