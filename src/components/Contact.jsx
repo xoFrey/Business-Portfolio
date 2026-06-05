@@ -7,7 +7,7 @@ const Contact = () => {
       <p className='paragraph'>Contact</p>
       <div className='contact-container'>
         <h2>
-          Let's make something <span>togehter.</span>
+          Let's make something <span>together.</span>
         </h2>
         <div className='contact-info-container'>
           <ContactInfo
