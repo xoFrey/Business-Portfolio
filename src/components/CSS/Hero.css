@@ -1,9 +1,9 @@
 .hero {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: end;
   padding: var(--section-gutter);
-  padding-inline: 10vw;
+  padding-left: 10vw;
 }
 
 .hero-headline p {

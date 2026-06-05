@@ -1,7 +1,7 @@
 .contact {
   align-items: self-start;
   padding: var(--section-gutter);
-  padding-inline: 10vw;
+  /* padding-inline: 10vw; */
   position: relative;
   margin-bottom: 30px;
 }

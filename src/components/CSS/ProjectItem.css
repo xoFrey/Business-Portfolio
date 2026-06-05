@@ -1,13 +1,13 @@
 .projects {
+  display: flex;
+  align-items: self-start;
+  padding: 60px 60px 0px 60px;
+  margin-left: -16px;
   position: relative;
-  margin-left: -15px;
-  padding-top: var(--section-gutter);
 }
 
 .project-item {
   display: flex;
-  align-items: self-start;
-  padding-inline: 10vw;
   padding-bottom: 40px;
   position: relative;
 }

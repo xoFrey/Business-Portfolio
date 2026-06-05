@@ -22,8 +22,9 @@
 }
 
 body {
-  width: var(--max-content-width);
-  margin: auto;
+  max-width: var(--max-content-width);
+  width: 100%;
+  margin: 0 auto;
   background: var(--color-bg);
   color: var(--color-fg);
   font-family: var(--font-sans);
@@ -40,4 +41,7 @@ body {
   height: 1px;
   margin: 20px auto;
   width: 80vw;
+}
+
+@media screen {
 }
